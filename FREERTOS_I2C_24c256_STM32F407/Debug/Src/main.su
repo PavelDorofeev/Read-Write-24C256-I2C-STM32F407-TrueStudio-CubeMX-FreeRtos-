@@ -1,0 +1,17 @@
+main.c:497:6:StartDefaultTask	56	static
+main.c:648:6:StartTask02	128	static
+main.c:343:6:HAL_I2C_MasterTxCpltCallback	80	static
+main.c:367:6:HAL_I2C_MemTxCpltCallback	0	static
+main.c:389:6:HAL_I2C_MasterRxCpltCallback	0	static
+main.c:393:6:HAL_I2C_MemRxCpltCallback	8	static
+main.c:405:6:HAL_I2C_AddrCallback	0	static
+main.c:428:6:HAL_I2C_ListenCpltCallback	0	static
+main.c:443:6:HAL_I2C_AbortCpltCallback	0	static
+main.c:447:6:HAL_I2C_SlaveRxCpltCallback	0	static
+main.c:465:6:HAL_I2C_SlaveTxCpltCallback	0	static
+main.c:473:6:HAL_I2C_ErrorCallback	64	static
+main.c:742:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:759:6:Error_Handler	0	static
+main.c:185:6:SystemClock_Config	88	static
+main.c:95:5:main	104	static
+main.c:775:6:assert_failed	0	static
